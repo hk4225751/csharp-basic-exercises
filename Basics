@@ -1,0 +1,174 @@
+ //Console.WriteLine("Helo :");
+ //Console.WriteLine("Muhammad Haroon");
+ //Console.WriteLine();
+
+
+
+ //Console.WriteLine("Enter Two Numbers to Sum");
+ //int firstnum = Convert.ToInt32(Console.ReadLine());
+ //int secondnum = Convert.ToInt32(Console.ReadLine());
+ //int sum = firstnum + secondnum;
+ //Console.WriteLine("The Sum is " + sum);
+
+
+
+
+
+
+ //Console.WriteLine(-1 + 4 * 6);
+ //Console.WriteLine((35 + 5) % 7);
+ //Console.WriteLine(14 + -4 * 6 / 11);
+ //Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
+
+
+
+
+ //Console.WriteLine("\n Enter two numbers to swap");
+ //int num1 = Convert.ToInt32(Console.ReadLine());
+ //int num2 = Convert.ToInt32(Console.ReadLine());
+
+ //int temp = num1;
+ //num1 = num2 ;
+ //num2 = temp ;
+
+ //Console.WriteLine("\nAfter the swapping the first number is now \n" + num1 + "\nAnd the Second Number is " + num2);
+
+
+
+
+
+
+
+ //Console.WriteLine("Enter First Number to Multiply");
+ //int num1 = Convert.ToInt32(Console.ReadLine());
+ //Console.WriteLine("Enter Second Number to Multiply");
+ //int num2 = Convert.ToInt32(Console.ReadLine());
+ //Console.WriteLine("Enter Third Number to Multiply");
+ //int num3 = Convert.ToInt32(Console.ReadLine());
+
+ //Console.WriteLine( num1 *  num2  * num3);
+
+
+
+
+ //Console.WriteLine("Enter the First Number  "); 
+ //int num1 = Convert.ToInt32(Console.ReadLine());
+ //Console.WriteLine("Enter the Second Number  ");
+ //int num2 = Convert.ToInt32(Console.ReadLine());
+
+ //Console.WriteLine("The Sum of two Numbers are " + (num1 + num2));
+ //Console.WriteLine("The Difference of two Numbers are " + (num1 - num2));
+ //Console.WriteLine("The Multiplication of two Numbers are " + (num1 * num2));
+ //Console.WriteLine("The Division of two Numbers are " + (num1 / num2));
+ //Console.WriteLine("The Modulus of two Numbers are " + (num1 % num2));
+
+
+
+
+ //   int x = 5;
+ //int    result = x * 1;
+ //   Console.WriteLine("The table is : {0} x {1} = {2}", x, 1, result);
+ //   result = x * 2;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 2, result);
+ //   result = x * 3;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 3, result);
+ //   result = x * 4;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 4, result);
+ //   result = x * 5;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 5, result);
+ //   result = x * 6;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 6, result);
+ //   result = x * 7;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 7, result);
+ //   result = x * 8;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 8, result);
+ //   result = x * 9;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 9, result);
+ //   result = x * 10;
+ //   Console.WriteLine("             : {0} x {1} = {2}", x, 10, result);
+
+
+
+
+
+
+ //  Console.WriteLine("Enter four numbers for finding the average ");
+
+ //  double num1 = Convert.ToInt32(Console.ReadLine());
+ //  double num2 = Convert.ToInt32(Console.ReadLine());
+ //  double num3 = Convert.ToInt32(Console.ReadLine());
+ //  double num4 = Convert.ToInt32(Console.ReadLine());
+
+
+ //double  num5 = (num1 + num2 + num3 + num4) / 4;
+
+ //  Console.WriteLine("The Average of the numbers is  " + num5);
+
+
+
+
+
+
+
+
+ //Console.WriteLine("Enter three numbers  (x+y).z  and x.y + y.z");
+ //int x = Convert.ToInt32(Console.ReadLine());
+ //int y = Convert.ToInt32(Console.ReadLine());
+ //int z = Convert.ToInt32(Console.ReadLine());
+ //int sum1 = (x + y) * z;
+ //int sum2 = x * y + y * z;
+ //Console.WriteLine("The output of [(x+y)].z is = " + sum1 + "\nAnd the output of [( x.y + y.z )] is = " + sum2);
+
+
+
+
+
+ //Console.WriteLine("Enter your Age");
+ //int age = Convert.ToInt32(Console.ReadLine());
+
+ //Console.WriteLine("You look older than " + age );
+
+
+
+
+
+ //Console.WriteLine("Enter a number");
+ //int num = Convert.ToInt32(Console.ReadLine());
+ //Console.Write(num);
+ //Console.Write(" ");
+ //Console.Write(num);
+ //Console.Write(" ");
+ //Console.Write(num);
+ //Console.Write(" ");
+ //Console.Write(num);
+ //Console.WriteLine();
+
+
+ //Console.Write(num);
+ //Console.Write(num);
+ //Console.Write(num);
+ //Console.Write(num);
+
+
+
+
+
+ //Console.WriteLine("Aby saaly koe number likh ");
+ //int num = Convert.ToInt32(Console.ReadLine());
+ //Console.WriteLine("{0}{0}{0}", num );
+ //Console.WriteLine("{0}  {0}", num);
+ //Console.WriteLine("{0}  {0}", num);
+ //Console.WriteLine("{0}  {0}", num);
+ //Console.WriteLine("{0}{0}{0}", num);
+
+
+
+ // Console.WriteLine(" Enter a Celsius to convert in kelvin and farhrenhiet"); 
+
+ // int celsius = Convert.ToInt32(Console.ReadLine());
+ //double kelvin = 273.15;
+ //  kelvin = celsius + kelvin;
+ // Console.WriteLine("The Temperature in Kelvin:\n" + kelvin );
+ // double farhenhiet = 1.8;
+ // farhenhiet = celsius * 1.8; 
+ // Console.WriteLine("The Temperature in Farhenhiet:\n" + farhenhiet );   
